@@ -1,7 +1,7 @@
 package client
 
 import (
-	"ch15/series"
+	"test/code/ch15/series"
 	"testing"
 )
 
